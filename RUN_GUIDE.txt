@@ -1,0 +1,8 @@
+1. Open terminal in this folder.
+2. Create environment: python -m venv venv
+3. Activate: venv\Scripts\activate
+4. Install: pip install -r requirements.txt
+5. Optional regenerate dataset: python generate_dataset.py
+6. Optional retrain model: python train_model.py
+7. Start app: streamlit run app.py
+8. Open the URL shown by Streamlit (normally http://localhost:8501)
