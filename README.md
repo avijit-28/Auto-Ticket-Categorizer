@@ -62,8 +62,7 @@ auto-ticket-categorizer/
 ├── models/
 │   ├── ticket_classifier.pkl
 │   └── tfidf_vectorizer.pkl
-│
-└── screenshots/
+
 ```
 
 ## Setup
